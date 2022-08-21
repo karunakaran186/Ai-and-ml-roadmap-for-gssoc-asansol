@@ -1,5 +1,8 @@
 # Ai-and-ml-roadmap-for-gssoc-asansol
 
+
+https://media.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif
+
 ![ai and ml roadmap_page-0001](https://user-images.githubusercontent.com/66834895/185776523-ff5705a7-c8bc-452e-8405-9474c437ae78.jpg)
 ![ai and ml roadmap_page-0002](https://user-images.githubusercontent.com/66834895/185776526-6daf39c9-3dbf-4fe6-bcc0-dcd43e4e9318.jpg)
 ![ai and ml roadmap_page-0003](https://user-images.githubusercontent.com/66834895/185776528-72b83982-f8b2-4bab-b735-2f93eac9deee.jpg)
