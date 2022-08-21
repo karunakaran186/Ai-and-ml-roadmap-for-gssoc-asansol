@@ -1,6 +1,10 @@
 # Ai-and-ml-roadmap-for-gssoc-asansol
 
+
+
 ![ml ](https://user-images.githubusercontent.com/66834895/185777057-a6123a75-01ed-4526-8314-027302341ec4.jpg)
+
+
 
 ![giphy (1)](https://user-images.githubusercontent.com/66834895/185777069-59588bc0-78f4-4635-b790-06eddf15eb69.gif)
 ![giphy (2)](https://user-images.githubusercontent.com/66834895/185778356-6981be21-5048-4f9e-a536-f389c1844037.gif)
@@ -88,3 +92,4 @@
 ![giphy](https://user-images.githubusercontent.com/66834895/185776810-8c24b82b-2cee-46b3-9eb8-e4eb52743642.gif)
 
 
+![WhatsApp Image 2022-08-21 at 12 01 33 PM](https://user-images.githubusercontent.com/66834895/185792133-3c594ebb-78e7-4fd5-ae9e-5b321a6074df.jpeg)
