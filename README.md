@@ -3,6 +3,18 @@
 ![ml ](https://user-images.githubusercontent.com/66834895/185777057-a6123a75-01ed-4526-8314-027302341ec4.jpg)
 
 ![giphy (1)](https://user-images.githubusercontent.com/66834895/185777069-59588bc0-78f4-4635-b790-06eddf15eb69.gif)
+![giphy (2)](https://user-images.githubusercontent.com/66834895/185778356-6981be21-5048-4f9e-a536-f389c1844037.gif)
+![giphy-16](https://user-images.githubusercontent.com/66834895/185778359-3bce2f5b-71fa-4c34-9d6a-eb283cfd414d.gif)
+![Hacker-Noon](https://user-images.githubusercontent.com/66834895/185778363-eeeee0bb-aef3-4fc8-960b-9a6cdc15a2d4.gif)
+![nn](https://user-images.githubusercontent.com/66834895/185778366-b1a1a723-1298-4835-9222-fd362d9c79dd.gif)
+![UnsteadyUnkemptKangaroo-size_restricted](https://user-images.githubusercontent.com/66834895/185778367-338686d1-2372-4661-9e06-85d9c10923a7.gif)
+![ml rm](https://user-images.githubusercontent.com/66834895/185778488-1e16288f-361f-4e3c-860f-e22872319177.png)
+![neural_filters_age_change 0](https://user-images.githubusercontent.com/66834895/185778497-d43069a4-f17b-4ac2-aaf1-a0c8b727937e.gif)
+
+
+![1589298787634](https://user-images.githubusercontent.com/66834895/185778484-26e20059-83af-402e-8395-3752402150c8.png)
+![ai and ml road map](https://user-images.githubusercontent.com/66834895/185778486-d3f941fb-0762-44cb-b586-6a545ff5ddaa.jpg)
+![images](https://user-images.githubusercontent.com/66834895/185778487-e8c0206f-4e91-4fec-b7f0-0388ea695811.jpg)
 
 
 ![ai and ml roadmap_page-0001](https://user-images.githubusercontent.com/66834895/185776523-ff5705a7-c8bc-452e-8405-9474c437ae78.jpg)
