@@ -68,5 +68,6 @@
 ![ai and ml roadmap_page-0066](https://user-images.githubusercontent.com/66834895/185776661-72cf1c3e-7948-470e-ab0e-6782e5461579.jpg)
 ![ai and ml roadmap_page-0067](https://user-images.githubusercontent.com/66834895/185776662-18a5410a-b277-4f00-96ce-32f5d429aec8.jpg)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/trekaffCEC3FWXQLAX" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sginnovate-transparent-trekaffCEC3FWXQLAX">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/66834895/185776810-8c24b82b-2cee-46b3-9eb8-e4eb52743642.gif)
+
 
